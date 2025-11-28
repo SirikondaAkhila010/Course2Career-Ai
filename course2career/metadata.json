@@ -1,0 +1,7 @@
+{
+  "name": "Course2Career",
+  "description": "A professional networking and job-matching platform tailored for connecting students, job seekers, and employers with AI-powered features for resume parsing, job matching, and career guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
